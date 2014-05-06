@@ -1,3 +1,5 @@
+/dev/block/mmcblk0p8      0660   system     system
+/dev/block/mmcblk0p9      0660   system     system
 /dev/gemini0              0660   system     camera
 /dev/jpeg0                0660   system     camera
 /dev/jpeg1                0660   system     camera
