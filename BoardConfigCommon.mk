@@ -15,6 +15,9 @@
 # inherit from msm8974-common
 include device/sony/msm8974-common/BoardConfigCommon.mk
 
+# Kernel properties
+TARGET_KERNEL_SOURCE := kernel/sony/msm8974
+
 TARGET_SPECIFIC_HEADER_PATH += device/sony/rhine-common/include
 
 # Platform
